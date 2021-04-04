@@ -1,13 +1,13 @@
 # Site settings
 name: microSEED
 title: microSEED | Investments for Microbusinesses 
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+description: We invest in bootstrapped businesses and early stage startups.
+url: https://microseedxyz.github.io/
 baseurl: ''
 email: hi@microseed.xyz
-cover: https://bchiang7.github.io/img/og.png
+cover: https://microseedxyz.github.io/img/og.png
 logo:  https://kismayomed.github.io/logo-update.png
-resume: https://bchi.github.io/resume.pdf
+resume: h
 social:
   - title: email
     url: mailto:hi@microseed.xyz
