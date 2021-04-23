@@ -1,34 +1,23 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+Healthcare:
+  - item: Kismayo Medical Center
+  - item: Telehealth platform
+  - item: Physician & Medical Education portal
+  - item: Electronic Medical Records
+  - item: Physician and Hospital discovery platform
+  - item: Pharmaceutical import
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+Internet Infrastructure:
+  - item: WiFi network
+  - item: Internet Hosting services
+  - item: Web development agency
 
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+SAAS (Software-as-a-Service):
+  - item: Accounting & Invoicing
+  - item: Point of Sale systems
+  - item: Restaurant delivery systems
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
-
+Travel:
+  - item: Flight and Hotel Booking App
+  - item: Travel discovery platform
+  - item: Hospitality job board
+  - item: Event and Conference booking platform
