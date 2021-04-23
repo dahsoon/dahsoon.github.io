@@ -5,7 +5,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Healthcare</div>
         <ul>
-          {% for language in site.data.skills.languages %}
+          {% for language in site.data.skills.healthcare %}
           <li class="skillz__category__item">{{language.item}}</li>
           {% endfor %}
         </ul>
@@ -13,7 +13,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Internet Infrastructure</div>
         <ul>
-          {% for framework in site.data.skills.frameworks %}
+          {% for framework in site.data.skills.internet %}
           <li class="skillz__category__item">{{framework.item}}</li>
           {% endfor %}
         </ul>
@@ -21,7 +21,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">SAAS(Software-as-a-Service)</div>
         <ul>
-          {% for tool in site.data.skills.tools %}
+          {% for tool in site.data.skills.saas %}
           <li class="skillz__category__item">{{tool.item}}</li>
           {% endfor %}
         </ul>
@@ -29,7 +29,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Travel</div>
         <ul>
-          {% for thing in site.data.skills.design %}
+          {% for thing in site.data.skills.travel %}
           <li class="skillz__category__item">{{thing.item}}</li>
           {% endfor %}
         </ul>
