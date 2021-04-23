@@ -1,4 +1,4 @@
-Healthcare:
+healthcare:
   - item: Kismayo Medical Center
   - item: Telehealth platform
   - item: Physician & Medical Education portal
@@ -6,17 +6,17 @@ Healthcare:
   - item: Physician and Hospital discovery platform
   - item: Pharmaceutical import
 
-Internet Infrastructure:
+internet:
   - item: WiFi network
   - item: Internet Hosting services
   - item: Web development agency
 
-SAAS:
+saas:
   - item: Accounting & Invoicing
   - item: Point of Sale systems
   - item: Restaurant delivery systems
 
-Travel:
+travel:
   - item: Flight and Hotel Booking App
   - item: Travel discovery platform
   - item: Hospitality job board
