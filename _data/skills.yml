@@ -10,11 +10,12 @@ internet:
   - item: WiFi network
   - item: Internet Hosting
   - item: Web Development
-
-software:
   - item: Accounting & Invoicing
   - item: Point of Sale systems
   - item: Restaurant Delivery App
+
+software:
+  
 
 travel:
   - item: Flight Booking App
