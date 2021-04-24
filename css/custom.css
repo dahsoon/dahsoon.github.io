@@ -3,3 +3,7 @@
   margin: 15px; /* margin: 20px was off */
   border-radius: 50%; /* makes it a circle */
 }
+.footer__copyright {
+    font-weight: 700;
+    width: auto;
+ }
