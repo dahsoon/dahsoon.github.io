@@ -1,26 +1,26 @@
 # Site settings
-name: microSEED
-title: microSEED | An Internet Holding Company 
+name: Dahsoon
+title: Dahsoon | An Internet Holding Company 
 description: We devlope businesses around the internet.
-url: https://microseedxyz.github.io/
+url: https://dahsoon.github.io/
 baseurl: ''
-email: hi@microseed.xyz
-cover: https://microseedxyz.github.io/img/og.png
-logo:  https://microseedxyz.github.io/img/logo.png
+email: hi@dahsoon.com
+cover: https://dahsoon.github.io/img/og.png
+logo:  https://dahsoon.github.io/img/logo.png
 resume: h
 social:
   - title: email
-    url: mailto:hi@microseed.xyz
+    url: mailto:hi@dahsoon.com
   - title: twitter
-    url: https://twitter.com/microseedxyz
+    url: https://twitter.com/dahsoon
   - title: instagram
-    url: https://instagram.com/microseedxyz
+    url: https://instagram.com/dahsoon
   - title: codepen
-    url: http://codepen.io/microseedxyz
+    url: http://codepen.io/dahsoon
   - title: github
-    url: https://github.com/microseedxyz
+    url: https://github.com/dahsoon
   - title: linkedin
-    url: https://www.linkedin.com/in/microseedxyz
+    url: https://www.linkedin.com/in/dahsoon
 
 # Build settings
 markdown: kramdown
